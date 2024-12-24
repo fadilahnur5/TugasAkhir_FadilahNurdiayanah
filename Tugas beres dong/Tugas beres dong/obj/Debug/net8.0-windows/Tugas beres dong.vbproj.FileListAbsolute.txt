@@ -1,0 +1,17 @@
+C:\Users\Hewlett-Packard\source\repos\Tugas beres dong\Tugas beres dong\obj\Debug\net8.0-windows\Tugas_beres_dong.Frmmenu.resources
+C:\Users\Hewlett-Packard\source\repos\Tugas beres dong\Tugas beres dong\obj\Debug\net8.0-windows\Tugas_beres_dong.Resources.resources
+C:\Users\Hewlett-Packard\source\repos\Tugas beres dong\Tugas beres dong\obj\Debug\net8.0-windows\Tugas beres dong.vbproj.GenerateResource.cache
+C:\Users\Hewlett-Packard\source\repos\Tugas beres dong\Tugas beres dong\obj\Debug\net8.0-windows\Tugas beres dong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hewlett-Packard\source\repos\Tugas beres dong\Tugas beres dong\obj\Debug\net8.0-windows\Tugas beres dong.AssemblyInfoInputs.cache
+C:\Users\Hewlett-Packard\source\repos\Tugas beres dong\Tugas beres dong\obj\Debug\net8.0-windows\Tugas beres dong.AssemblyInfo.vb
+C:\Users\Hewlett-Packard\source\repos\Tugas beres dong\Tugas beres dong\obj\Debug\net8.0-windows\Tugas beres dong.vbproj.CoreCompileInputs.cache
+C:\Users\Hewlett-Packard\source\repos\Tugas beres dong\Tugas beres dong\bin\Debug\net8.0-windows\Tugas beres dong.exe
+C:\Users\Hewlett-Packard\source\repos\Tugas beres dong\Tugas beres dong\bin\Debug\net8.0-windows\Tugas beres dong.deps.json
+C:\Users\Hewlett-Packard\source\repos\Tugas beres dong\Tugas beres dong\bin\Debug\net8.0-windows\Tugas beres dong.runtimeconfig.json
+C:\Users\Hewlett-Packard\source\repos\Tugas beres dong\Tugas beres dong\bin\Debug\net8.0-windows\Tugas beres dong.dll
+C:\Users\Hewlett-Packard\source\repos\Tugas beres dong\Tugas beres dong\bin\Debug\net8.0-windows\Tugas beres dong.pdb
+C:\Users\Hewlett-Packard\source\repos\Tugas beres dong\Tugas beres dong\obj\Debug\net8.0-windows\Tugas beres dong.dll
+C:\Users\Hewlett-Packard\source\repos\Tugas beres dong\Tugas beres dong\obj\Debug\net8.0-windows\refint\Tugas beres dong.dll
+C:\Users\Hewlett-Packard\source\repos\Tugas beres dong\Tugas beres dong\obj\Debug\net8.0-windows\Tugas beres dong.pdb
+C:\Users\Hewlett-Packard\source\repos\Tugas beres dong\Tugas beres dong\obj\Debug\net8.0-windows\Tugas beres dong.genruntimeconfig.cache
+C:\Users\Hewlett-Packard\source\repos\Tugas beres dong\Tugas beres dong\obj\Debug\net8.0-windows\ref\Tugas beres dong.dll
